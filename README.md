@@ -7,7 +7,7 @@ This Python script calculates the debt payoff schedule based on the initial bala
 - Python 3.x
 - Pandas
 - Tkinter
-- 
+  
 ## Installation
 You can install the dependencies using pip:
 
